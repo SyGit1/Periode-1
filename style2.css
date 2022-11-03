@@ -1,0 +1,65 @@
+p {
+    font-size: 5em;
+    text-align: center;
+}
+
+#bg {
+    background-color: rgb(96, 92, 120);
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(208, 208, 208);
+    margin: 0 40% 0 40%;
+    /* width: 20vw; */
+    padding: 1%;
+    border-radius: 12px;
+    backdrop-filter: blur;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    color: white;
+    font-size: 1.6em;
+}
+
+.formrule {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 4px;
+}
+
+label {
+    text-align: left;
+}
+
+@media (max-width: 600px) {
+    section {
+        width: 90vw;
+    }
+}
+
+input[type="text"],
+input[type="email"] {
+    padding: 4px;
+}
+
+select {
+    font-size: 1em;
+
+}
+
+button {
+    padding: 4px 14px;
+    background-color: darkgrey;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: white;
+}

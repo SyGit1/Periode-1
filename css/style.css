@@ -72,7 +72,7 @@ main {
 
 .text {
     padding: 0 2.5% 0 2.5%;
-
+    color: white;
 }
 
 p {
@@ -148,6 +148,12 @@ progress::-webkit-progress-value {
 
 .bar {
     margin-bottom: 5%;
+}
+
+.formrule {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 4px;
 }
 
 @media only screen and (max-width: 600px) {
