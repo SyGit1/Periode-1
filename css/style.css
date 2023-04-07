@@ -1,5 +1,5 @@
 #bg {
-    background-color: #5f00bd;
+    background-color: #3d3d3d;
 }
 
 body {
@@ -11,7 +11,7 @@ header {
     width: 100%;
     height: 75vh;
     background-size: cover;
-    background-image: url(../resources/Website\ Wallpaper\ 1.jpg);
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.torontomu.ca%2Fcontent%2Fdam%2Fgraduate%2Fprograms%2Fcomputer-science%2FCode-Banner.jpg&f=1&nofb=1&ipt=06507698cfe9f44a27d79298c0d57507d82e3afd81243dff7cbc54f64dd95daf&ipo=images);
     justify-content: center;
     text-align: center;
     background-position: center;
@@ -92,7 +92,7 @@ p {
 }
 
 #title {
-    color: #1d1d1d;
+    color: #ffffff;
     font-size: 2em;
 }
 
