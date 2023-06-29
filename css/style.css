@@ -63,7 +63,7 @@ main {
     text-align: left;
     margin-top: 10%;
     margin-bottom: 10%;
-    box-shadow: 1px 1px 5px 3px rgba(61, 61, 61, 0.8);
+    box-shadow: 1px 1px 5px 3px rgba(255, 255, 255, 0.521);
 }
 
 #article2 div {
@@ -72,7 +72,7 @@ main {
     text-align: left;
     margin-top: 10%;
     margin-bottom: 10%;
-    box-shadow: 1px 1px 5px 3px rgba(61, 61, 61, 0.8);
+    box-shadow: 1px 1px 5px 3px rgba(255, 255, 255, 0.521);
 }
 
 
