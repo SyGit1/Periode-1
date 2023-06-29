@@ -19,7 +19,7 @@ header {
     flex-direction: column;
     color: #1d1d1d;
     font-size: 3em;
-    filter: blur(1px);
+    /* filter: blur(1px); */
 }
 
 nav {
