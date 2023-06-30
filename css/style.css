@@ -6,8 +6,13 @@
     height: 20vw;
 }
 
-img {
+.regimg {
     width: 15vw;
+    /* height: 30vh; */
+}
+
+.cle3img {
+    width: 85vw;
     /* height: 30vh; */
 }
 
